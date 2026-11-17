@@ -1,0 +1,14 @@
+codigo;categoria;descricao;local;dia_abertura;status
+001;iluminacao;Poste apagado na esquina;Rua 3;1;concluida
+002;limpeza;Entulho acumulado na calçada;Avenida Principal;1;concluida
+003;acessibilidade;Rampa de acesso quebrada;Escola Municipal;2;em_analise
+004;conservacao;Banco da praça danificado;Praça Central;3;aberta
+005;iluminacao;Lâmpada piscando na passarela;Passarela da Estação;4;em_analise
+006;limpeza;Lixeira transbordando;Ponto de ônibus da Rua 7;5;concluida
+007;acessibilidade;Calçada sem piso tátil;Unidade Básica de Saúde;6;aberta
+008;iluminacao;Praça escura à noite;Praça Central;8;aberta
+009;conservacao;Brinquedo do parquinho solto;Parque do Bairro;9;em_analise
+010;acessibilidade;Semáforo sem sinal sonoro;Cruzamento da Avenida Principal;11;aberta
+011;iluminacao;Refletor da quadra queimado;Quadra Poliesportiva;12;aberta
+012;limpeza;Mato alto no terreno ao lado da creche;Creche Comunitária;14;em_analise
+013;;Buraco na calçada;Rua 5;15;aberta
